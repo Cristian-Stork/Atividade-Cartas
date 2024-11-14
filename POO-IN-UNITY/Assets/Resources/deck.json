@@ -1,0 +1,220 @@
+{
+    "cards": [
+        {
+            "suit": "Copas",
+            "value": "As"
+        },
+        {
+            "suit": "Copas",
+            "value": "2"
+        },
+        {
+            "suit": "Copas",
+            "value": "3"
+        },
+        {
+            "suit": "Copas",
+            "value": "4"
+        },
+        {
+            "suit": "Copas",
+            "value": "5"
+        },
+        {
+            "suit": "Copas",
+            "value": "6"
+        },
+        {
+            "suit": "Copas",
+            "value": "7"
+        },
+        {
+            "suit": "Copas",
+            "value": "8"
+        },
+        {
+            "suit": "Copas",
+            "value": "9"
+        },
+        {
+            "suit": "Copas",
+            "value": "10"
+        },
+        {
+            "suit": "Copas",
+            "value": "Valete"
+        },
+        {
+            "suit": "Copas",
+            "value": "Dama"
+        },
+        {
+            "suit": "Copas",
+            "value": "Rei"
+        },
+        {
+            "suit": "Ouros",
+            "value": "As"
+        },
+        {
+            "suit": "Ouros",
+            "value": "2"
+        },
+        {
+            "suit": "Ouros",
+            "value": "3"
+        },
+        {
+            "suit": "Ouros",
+            "value": "4"
+        },
+        {
+            "suit": "Ouros",
+            "value": "5"
+        },
+        {
+            "suit": "Ouros",
+            "value": "6"
+        },
+        {
+            "suit": "Ouros",
+            "value": "7"
+        },
+        {
+            "suit": "Ouros",
+            "value": "8"
+        },
+        {
+            "suit": "Ouros",
+            "value": "9"
+        },
+        {
+            "suit": "Ouros",
+            "value": "10"
+        },
+        {
+            "suit": "Ouros",
+            "value": "Valete"
+        },
+        {
+            "suit": "Ouros",
+            "value": "Dama"
+        },
+        {
+            "suit": "Ouros",
+            "value": "Rei"
+        },
+        {
+            "suit": "Espadas",
+            "value": "As"
+        },
+        {
+            "suit": "Espadas",
+            "value": "2"
+        },
+        {
+            "suit": "Espadas",
+            "value": "3"
+        },
+        {
+            "suit": "Espadas",
+            "value": "4"
+        },
+        {
+            "suit": "Espadas",
+            "value": "5"
+        },
+        {
+            "suit": "Espadas",
+            "value": "6"
+        },
+        {
+            "suit": "Espadas",
+            "value": "7"
+        },
+        {
+            "suit": "Espadas",
+            "value": "8"
+        },
+        {
+            "suit": "Espadas",
+            "value": "9"
+        },
+        {
+            "suit": "Espadas",
+            "value": "10"
+        },
+        {
+            "suit": "Espadas",
+            "value": "Valete"
+        },
+        {
+            "suit": "Espadas",
+            "value": "Dama"
+        },
+        {
+            "suit": "Espadas",
+            "value": "Rei"
+        },
+        {
+            "suit": "Paus",
+            "value": "As"
+        },
+        {
+            "suit": "Paus",
+            "value": "2"
+        },
+        {
+            "suit": "Paus",
+            "value": "3"
+        },
+        {
+            "suit": "Paus",
+            "value": "4"
+        },
+        {
+            "suit": "Paus",
+            "value": "5"
+        },
+        {
+            "suit": "Paus",
+            "value": "6"
+        },
+        {
+            "suit": "Paus",
+            "value": "7"
+        },
+        {
+            "suit": "Paus",
+            "value": "8"
+        },
+        {
+            "suit": "Paus",
+            "value": "9"
+        },
+        {
+            "suit": "Paus",
+            "value": "10"
+        },
+        {
+            "suit": "Paus",
+            "value": "Valete"
+        },
+        {
+            "suit": "Paus",
+            "value": "Dama"
+        },
+        {
+            "suit": "Paus",
+            "value": "Rei"
+        },
+        {
+            "suit": "Coringa",
+            "value": "Coringa"
+        },
+        {
+            "suit": "Coringa",
+            "value": "Coringa"
+        }
+    ]
+}
